@@ -1,0 +1,6 @@
+role,skills,salary,roadmap
+Data Analyst,"Python,SQL,Excel,Pandas,Visualization","4-8 LPA","Learn SQL → Pandas → Power BI → Projects"
+Web Developer,"HTML,CSS,JavaScript,React,Git","3-7 LPA","Learn JS → React → Build Projects"
+Machine Learning Engineer,"Python,ML,TensorFlow,Data Science","6-12 LPA","Learn Python → ML → Deep Learning"
+AI Engineer,"Python,Deep Learning,NLP,TensorFlow","8-15 LPA","Learn ML → NLP → Build AI apps"
+Backend Developer,"Python,Django,APIs,SQL","4-9 LPA","Learn Django → REST API → Database"
